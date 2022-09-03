@@ -26,7 +26,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: "JS Universe",
+    title: "Fernand SOUALO",
     description: "Web Dev Portfolio",
     copyright: "This website is copyright 2022 JS Universe",
     contact: "me@contact.com",
