@@ -1,15 +1,29 @@
 .details h2 {
-  font-size: 3.5em;
-  margin-top: 80px;
-}
-.details h3 {
-  font-size: 2em;
-  font-weight: 400;
-  margin-bottom: 40px;
-}
-.html {
+  font-size: 2.5em;
   margin-top: 40px;
 }
-.featured {
-  margin-bottom: 40px;
+
+.details h3 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
 }
+
+@media screen and (min-width: 768px) {
+  .details h2 {
+      font-size: 3.5em;
+      margin-top: 80px;
+    }
+
+        .details h3 {
+          font-size: 2em;
+    margin-bottom: 40px;
+.html {
+    margin-top: 40px;
+  }
+
+        .featured {
+          margin-bottom: 40px;
+  
+}
+        }
+        }
